@@ -2,7 +2,7 @@
 __________________________________________________________________________________
 Learn python from basic programs. learn python from scratch.
 
-1.Online python IDE: https://www.onlinegdb.com/online_python_compiler
+1.Online python compiler: https://www.onlinegdb.com/online_python_compiler
 
 2.Python IDE Install: https://www.youtube.com/watch?v=MoeQlmeJnPg
 

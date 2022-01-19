@@ -19,10 +19,10 @@ else:
 if {condition}:
    ---------
    ---------
-elif:
+elif {condition}:
    ---------
    ---------
-elif:
+elif {condition}:
    ---------
    ---------
 else:

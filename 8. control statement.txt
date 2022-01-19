@@ -1,0 +1,32 @@
+we control the execution of statement. so it is called control statemrnt.
+we can execute single statement or block of statement one time or n times.
+video link: https://www.youtube.com/watch?v=scLT28wKJ08&list=PLmRclvVt5DtmcLF3ywxKg692lhfD6SUOr&index=10
+
+-- --
+#1 Selection statement:
+a. if
+#2 Looping condition:
+a. while b. for
+
+_____if______
+
+if {condition}:
+    --------
+    --------
+else:
+    --------
+    --------
+if {condition}:
+   ---------
+   ---------
+elif:
+   ---------
+   ---------
+elif:
+   ---------
+   ---------
+else:
+   ---------
+   ---------
+    
+    

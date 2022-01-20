@@ -1,0 +1,17 @@
+while loop: continue execution till condition true.
+
+every loop has three parts:
+
+1- initialization
+2- condition
+3- increment or decrement
+
+a loop has must these three parts otherwise loop will not run.
+
+initialization -- starting position
+condition -- how long the loop to run
+increment -- increase as loop once complete.
+decrement -- decrease as loop once complete.
+
+example: print 1 t0 10, take int i
+then, initialization: i =0, condition i<=10, incr/decr = i++
